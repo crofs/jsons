@@ -1,0 +1,1446 @@
+{
+    "items": [
+        {
+            "month": 9,
+            "year": 2026,
+            "monthName": "September",
+            "items": [
+                {
+                    "optaId": 2643790,
+                    "venue": "The Falkirk Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "02 Sep 2026",
+                    "kickoffTime": "8:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Falkirk",
+                        "homeClubShortName": "Falkirk",
+                        "homeClubCrestUrl": "https://images.ctfassets.net/39646iezddpk/5qpZVoUnfxh8DeBISk1yUH/9b2ba24e8d7718b1057eb61dc197f022/FALKIRK_FC_150TH_BADGE_NAVY_RGB.png",
+                        "awayClubName": "Rangers",
+                        "awayClubShortName": "Rangers",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643790",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/falkirk-vs-rangers-scottish-premiership-2026-09-02/2S72p8mgGVma6xO085RmIe",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643797,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "05 Sep 2026",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "https://tickets.rangers.co.uk/en-GB/events/rangers%20fc%20v%20motherwell%20fc/2026-9-5_15.00/ibrox%20stadium?hallmap&utm_source=club%20website&utm_medium=fixture%20page&utm_campaign=match%20tickets&utm_content=0509%20motherwell%20match%20tickets",
+                        "isExternal": false
+                    },
+                    "hospitalityLink": {
+                        "title": "Hospitality",
+                        "url": "https://tickets.rangers.co.uk/en-GB/hospitality/rangers%20fc%20v%20motherwell%20fc/2026-9-5_15.00/ibrox%20stadium?utm_source=club%20website&utm_medium=fixture%20page&utm_campaign=vip%20hospitality&utm_content=0509%20motherwell%20vip%20hospitality%20tickets",
+                        "isExternal": false
+                    },
+                    "seatSubLink": {
+                        "title": "SeatSub",
+                        "url": "https://tickets.rangers.co.uk/ClientRequiredFallback.aspx?next=%2fresale.aspx",
+                        "isExternal": true
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "Motherwell",
+                        "awayClubShortName": "Motherwell",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/65.svg",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643797",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-motherwell-scottish-premiership-2026-09-05/7eqqakjU0Nr66L59iHxZt",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643780,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "09 Sep 2026",
+                    "kickoffTime": "7:45 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "https://tickets.rangers.co.uk/en-GB/events/rangers%20fc%20v%20st%20mirren%20fc/2026-9-9_19.45/ibrox%20stadium?hallmap&utm_source=club%20website&utm_medium=fixture%20page&utm_campaign=match%20tickets&utm_content=0909%20st%20mirren%20match%20tickets",
+                        "isExternal": false
+                    },
+                    "hospitalityLink": {
+                        "title": "Hospitality",
+                        "url": "https://tickets.rangers.co.uk/en-GB/hospitality/rangers%20fc%20v%20st%20mirren%20fc/2026-9-9_19.45/ibrox%20stadium?utm_source=club%20website&utm_medium=fixture%20page&utm_campaign=vip%20hospitality&utm_content=0909%20st%20mirren%20vip%20hospitality",
+                        "isExternal": false
+                    },
+                    "seatSubLink": {
+                        "title": "SeatSub",
+                        "url": "https://tickets.rangers.co.uk/resale.aspx",
+                        "isExternal": true
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "St. Mirren",
+                        "awayClubShortName": "St. Mirren",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/335.svg",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643780",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-st-mirren-scottish-premiership-2026-09-09/67PgJjUUyBbF7e2Fs6oyH1",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2683254,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Premier Sports Cup",
+                    "kickoffDate": "13 Sep 2026",
+                    "kickoffTime": "12:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "Celtic",
+                        "awayClubShortName": "Celtic",
+                        "awayClubCrestUrl": "https://images.ctfassets.net/39646iezddpk/6ZEkPhhuHTvPifH0shTBUn/16d3c4cb50694b8e9d0932f5b92d59b5/Celtic-Crest-PNG.png",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2683254",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-celtic-scottish-league-cup-2026-09-13/5Kf3HLfZU59qXBtBm6VZx",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643805,
+                    "venue": "Celtic Park",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "20 Sep 2026",
+                    "kickoffTime": "12:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Celtic",
+                        "homeClubShortName": "Celtic",
+                        "homeClubCrestUrl": "https://images.ctfassets.net/39646iezddpk/6ZEkPhhuHTvPifH0shTBUn/16d3c4cb50694b8e9d0932f5b92d59b5/Celtic-Crest-PNG.png",
+                        "awayClubName": "Rangers",
+                        "awayClubShortName": "Rangers",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643805",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/celtic-vs-rangers-scottish-premiership-2026-09-20/13WqlR8NMjx5lhC7QSN7Hb",
+                        "isExternal": false
+                    }
+                }
+            ]
+        },
+        {
+            "month": 10,
+            "year": 2026,
+            "monthName": "October",
+            "items": [
+                {
+                    "optaId": 2643811,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "10 Oct 2026",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "hospitalityLink": {
+                        "title": "Hospitality",
+                        "url": "https://tickets.rangers.co.uk/en-GB/hospitality/rangers%20fc%20v%20kilmarnock%20fc/2026-10-10_15.00/ibrox%20stadium?utm_source=website%20&utm_medium=fixtures%20page&utm_campaign=kilmarnock%20vip%20hospitality%20october%202026",
+                        "isExternal": false
+                    },
+                    "seatSubLink": {
+                        "title": "SeatSub",
+                        "url": "https://tickets.rangers.co.uk/ClientRequiredFallback.aspx?next=%2fresale.aspx",
+                        "isExternal": true
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "Kilmarnock",
+                        "awayClubShortName": "Kilmarnock",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/64.svg",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643811",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-kilmarnock-scottish-premiership-2026-10-10/2o19IfkEZ309y5RCuAWetf",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643814,
+                    "venue": "Dens Park",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "17 Oct 2026",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Dundee",
+                        "homeClubShortName": "Dundee",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/62.png",
+                        "awayClubName": "Rangers",
+                        "awayClubShortName": "Rangers",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643814",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/dundee-vs-rangers-scottish-premiership-2026-10-17/3EukHlMAZExm0XwSoeiEAm",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643822,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "24 Oct 2026",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "hospitalityLink": {
+                        "title": "Hospitality",
+                        "url": "https://tickets.rangers.co.uk/en-GB/hospitality/rangers%20fc%20v%20st%20johnstone%20fc/2026-10-24_15.00/ibrox%20stadium?utm_source=website%20&utm_medium=fixtures%20page&utm_campaign=st%20johnstone%20vip%20hospitality%20october%202026",
+                        "isExternal": false
+                    },
+                    "seatSubLink": {
+                        "title": "SeatSub",
+                        "url": "https://tickets.rangers.co.uk/ClientRequiredFallback.aspx?next=%2fresale.aspx",
+                        "isExternal": true
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "St. Johnstone",
+                        "awayClubShortName": "St. Johnstone",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/66.png",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643822",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-st-johnstone-scottish-premiership-2026-10-24/1mkPXkER2584luZnD4v7bG",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643827,
+                    "venue": "Tynecastle Park",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "28 Oct 2026",
+                    "kickoffTime": "7:45 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Heart of Midlothian",
+                        "homeClubShortName": "Hearts",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/59.png",
+                        "awayClubName": "Rangers",
+                        "awayClubShortName": "Rangers",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643827",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/heart-of-midlothian-vs-rangers-scottish-premiership-2026-10-28/1Brxw1GiqzWyufa2c5i3yv",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643835,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "31 Oct 2026",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "hospitalityLink": {
+                        "title": "Hospitality",
+                        "url": "https://tickets.rangers.co.uk/en-GB/hospitality/rangers%20fc%20v%20aberdeen%20fc/2026-10-31_15.00/ibrox%20stadium?utm_source=website%20&utm_medium=fixtures%20page&utm_campaign=aberdeen%20vip%20hospitality%20october%202026",
+                        "isExternal": false
+                    },
+                    "seatSubLink": {
+                        "title": "SeatSub",
+                        "url": "https://tickets.rangers.co.uk/resale.aspx",
+                        "isExternal": true
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "Aberdeen",
+                        "awayClubShortName": "Aberdeen",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/60.svg",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643835",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-aberdeen-scottish-premiership-2026-10-31/7JeiYakzJ18Vzaozv40i3Y",
+                        "isExternal": false
+                    }
+                }
+            ]
+        },
+        {
+            "month": 11,
+            "year": 2026,
+            "monthName": "November",
+            "items": [
+                {
+                    "optaId": 2643840,
+                    "venue": "The SMISA Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "07 Nov 2026",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "St. Mirren",
+                        "homeClubShortName": "St. Mirren",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/335.svg",
+                        "awayClubName": "Rangers",
+                        "awayClubShortName": "Rangers",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643840",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/st-mirren-vs-rangers-scottish-premiership-2026-11-07/KO2jCZXshxO4fYVeyPDO9",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643847,
+                    "venue": "Fir Park",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "21 Nov 2026",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Motherwell",
+                        "homeClubShortName": "Motherwell",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/65.svg",
+                        "awayClubName": "Rangers",
+                        "awayClubShortName": "Rangers",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643847",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/motherwell-vs-rangers-scottish-premiership-2026-11-21/3ZsS8A2HEpy3vMjUI60EXS",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643852,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "28 Nov 2026",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "hospitalityLink": {
+                        "title": "Hospitality",
+                        "url": "https://tickets.rangers.co.uk/en-GB/hospitality/rangers%20fc%20v%20falkirk%20fc/2026-11-28_15.00/ibrox%20stadium?utm_source=website%20&utm_medium=fixtures%20page&utm_campaign=falkirk%20vip%20hospitality%20november%202026",
+                        "isExternal": false
+                    },
+                    "seatSubLink": {
+                        "title": "SeatSub",
+                        "url": "https://tickets.rangers.co.uk/resale.aspx",
+                        "isExternal": true
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "Falkirk",
+                        "awayClubShortName": "Falkirk",
+                        "awayClubCrestUrl": "https://images.ctfassets.net/39646iezddpk/5qpZVoUnfxh8DeBISk1yUH/9b2ba24e8d7718b1057eb61dc197f022/FALKIRK_FC_150TH_BADGE_NAVY_RGB.png",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643852",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-falkirk-scottish-premiership-2026-11-28/2qP4MlPmtz1ApR01BtmSUu",
+                        "isExternal": false
+                    }
+                }
+            ]
+        },
+        {
+            "month": 12,
+            "year": 2026,
+            "monthName": "December",
+            "items": [
+                {
+                    "optaId": 2643858,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "02 Dec 2026",
+                    "kickoffTime": "7:45 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "hospitalityLink": {
+                        "title": "Hospitality",
+                        "url": "https://tickets.rangers.co.uk/en-GB/hospitality/rangers%20fc%20v%20dundee%20united%20fc/2026-12-2_19.45/ibrox%20stadium?utm_source=website%20&utm_medium=fixtures%20page&utm_campaign=dundee%20united%20vip%20hospitality%20december%202026",
+                        "isExternal": false
+                    },
+                    "seatSubLink": {
+                        "title": "SeatSub",
+                        "url": "https://tickets.rangers.co.uk/resale.aspx",
+                        "isExternal": true
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "Dundee United",
+                        "awayClubShortName": "Dundee Utd",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/63.png",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643858",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-dundee-united-scottish-premiership-2026-12-02/ZG7iKzFDeQZmlW3Btsas5",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643863,
+                    "venue": "Easter Road Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "05 Dec 2026",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Hibernian",
+                        "homeClubShortName": "Hibernian",
+                        "homeClubCrestUrl": "https://images.ctfassets.net/39646iezddpk/4DZg8TdimPDhz1QvRKuh3P/3c5137924e988cab37e8b78aa0290e70/150_Crest_Hunter_Green__3_.png",
+                        "awayClubName": "Rangers",
+                        "awayClubShortName": "Rangers",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643863",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/hibernian-vs-rangers-scottish-premiership-2026-12-05/1GS7Gs0v8vq2KyZB6UDI85",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643871,
+                    "venue": "McDiarmid Park",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "12 Dec 2026",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "St. Johnstone",
+                        "homeClubShortName": "St. Johnstone",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/66.png",
+                        "awayClubName": "Rangers",
+                        "awayClubShortName": "Rangers",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643871",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/st-johnstone-vs-rangers-scottish-premiership-2026-12-12/4gLRXwoMniCrXsNuEtJCav",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643876,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "19 Dec 2026",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "hospitalityLink": {
+                        "title": "Hospitality",
+                        "url": "https://tickets.rangers.co.uk/en-GB/hospitality/rangers%20fc%20v%20heart%20of%20midlothian%20fc/2026-12-19_15.00/ibrox%20stadium?utm_source=website%20&utm_medium=fixtures%20page&utm_campaign=heart%20of%20midlothian%20vip%20hospitality%20december%202026",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "Heart of Midlothian",
+                        "awayClubShortName": "Hearts",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/59.png",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643876",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-heart-of-midlothian-scottish-premiership-2026-12-19/1DvGRGH9HpLbWiOIiboRsN",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643882,
+                    "venue": "The BBSP Stadium Rugby Park",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "26 Dec 2026",
+                    "kickoffTime": "5:45 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Kilmarnock",
+                        "homeClubShortName": "Kilmarnock",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/64.svg",
+                        "awayClubName": "Rangers",
+                        "awayClubShortName": "Rangers",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643882",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/kilmarnock-vs-rangers-scottish-premiership-2026-12-26/1yzh9tsJgfBekuikpOkf5b",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643888,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "30 Dec 2026",
+                    "kickoffTime": "7:45 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "hospitalityLink": {
+                        "title": "Hospitality",
+                        "url": "https://tickets.rangers.co.uk/en-GB/hospitality/rangers%20fc%20v%20dundee%20fc/2026-12-30_19.45/ibrox%20stadium?utm_source=website%20&utm_medium=fixtures%20page&utm_campaign=dundee%20vip%20hospitality%20december%202026",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "Dundee",
+                        "awayClubShortName": "Dundee",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/62.png",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643888",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-dundee-scottish-premiership-2026-12-30/1yMZBFAvUOg3YWHEiynHnm",
+                        "isExternal": false
+                    }
+                }
+            ]
+        },
+        {
+            "month": 1,
+            "year": 2027,
+            "monthName": "January",
+            "items": [
+                {
+                    "optaId": 2643894,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "03 Jan 2027",
+                    "kickoffTime": "12:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "Celtic",
+                        "awayClubShortName": "Celtic",
+                        "awayClubCrestUrl": "https://images.ctfassets.net/39646iezddpk/6ZEkPhhuHTvPifH0shTBUn/16d3c4cb50694b8e9d0932f5b92d59b5/Celtic-Crest-PNG.png",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643894",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-celtic-scottish-premiership-2027-01-03/3cT8a27J3MCSRhE8YNmaqQ",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643898,
+                    "venue": "CalForth Construction Arena at Tannadice Park",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "09 Jan 2027",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Dundee United",
+                        "homeClubShortName": "Dundee Utd",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/63.png",
+                        "awayClubName": "Rangers",
+                        "awayClubShortName": "Rangers",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643898",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/dundee-united-vs-rangers-scottish-premiership-2027-01-09/4GnkdpyhP6bJ8FxCXfm8kR",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643906,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "23 Jan 2027",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "hospitalityLink": {
+                        "title": "Hospitality",
+                        "url": "https://tickets.rangers.co.uk/en-GB/hospitality/rangers%20fc%20v%20st%20johnstone%20fc/2027-1-23_15.00/ibrox%20stadium?utm_source=website%20&utm_medium=fixtures%20page&utm_campaign=st%20johnstone%20vip%20hospitality%20january%202027",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "St. Johnstone",
+                        "awayClubShortName": "St. Johnstone",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/66.png",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643906",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-st-johnstone-scottish-premiership-2027-01-23/7AkiI11Y1utprh7PcQkQvo",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643908,
+                    "venue": "Pittodrie Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "30 Jan 2027",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Aberdeen",
+                        "homeClubShortName": "Aberdeen",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/60.svg",
+                        "awayClubName": "Rangers",
+                        "awayClubShortName": "Rangers",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643908",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/aberdeen-vs-rangers-scottish-premiership-2027-01-30/1knBFcSgD1PqBMBOgQGqNm",
+                        "isExternal": false
+                    }
+                }
+            ]
+        },
+        {
+            "month": 2,
+            "year": 2027,
+            "monthName": "February",
+            "items": [
+                {
+                    "optaId": 2643918,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "03 Feb 2027",
+                    "kickoffTime": "7:45 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "hospitalityLink": {
+                        "title": "Hospitality",
+                        "url": "https://tickets.rangers.co.uk/en-GB/hospitality/rangers%20fc%20v%20kilmarnock%20fc/2027-2-3_19.45/ibrox%20stadium?utm_source=website%20&utm_medium=fixtures%20page&utm_campaign=kilmarnock%20vip%20hospitality%20february%202027",
+                        "isExternal": false
+                    },
+                    "seatSubLink": {
+                        "title": "SeatSub",
+                        "url": "https://tickets.rangers.co.uk/ClientRequiredFallback.aspx?next=%2fresale.aspx",
+                        "isExternal": true
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "Kilmarnock",
+                        "awayClubShortName": "Kilmarnock",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/64.svg",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643918",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-kilmarnock-scottish-premiership-2027-02-03/55e7DrMS6tcoRgHBNeRO8p",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643922,
+                    "venue": "The Falkirk Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "13 Feb 2027",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Falkirk",
+                        "homeClubShortName": "Falkirk",
+                        "homeClubCrestUrl": "https://images.ctfassets.net/39646iezddpk/5qpZVoUnfxh8DeBISk1yUH/9b2ba24e8d7718b1057eb61dc197f022/FALKIRK_FC_150TH_BADGE_NAVY_RGB.png",
+                        "awayClubName": "Rangers",
+                        "awayClubShortName": "Rangers",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643922",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/falkirk-vs-rangers-scottish-premiership-2027-02-13/4eRPf1lysAZCJlOZ9FHxLi",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643930,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "20 Feb 2027",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "hospitalityLink": {
+                        "title": "Hospitality",
+                        "url": "https://tickets.rangers.co.uk/en-GB/hospitality/rangers%20fc%20v%20st%20mirren%20fc/2027-2-20_15.00/ibrox%20stadium?utm_source=website%20&utm_medium=fixtures%20page&utm_campaign=st%20mirren%20vip%20hospitality%20february%202027",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "St. Mirren",
+                        "awayClubShortName": "St. Mirren",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/335.svg",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643930",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-st-mirren-scottish-premiership-2027-02-20/6NPLOF6M3orECb3fbxbYgs",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643933,
+                    "venue": "Celtic Park",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "27 Feb 2027",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Celtic",
+                        "homeClubShortName": "Celtic",
+                        "homeClubCrestUrl": "https://images.ctfassets.net/39646iezddpk/6ZEkPhhuHTvPifH0shTBUn/16d3c4cb50694b8e9d0932f5b92d59b5/Celtic-Crest-PNG.png",
+                        "awayClubName": "Rangers",
+                        "awayClubShortName": "Rangers",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643933",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/celtic-vs-rangers-scottish-premiership-2027-02-27/7FXQTUsFdjqiUFQsEJsCaQ",
+                        "isExternal": false
+                    }
+                }
+            ]
+        },
+        {
+            "month": 3,
+            "year": 2027,
+            "monthName": "March",
+            "items": [
+                {
+                    "optaId": 2643942,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "13 Mar 2027",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "hospitalityLink": {
+                        "title": "Hospitality",
+                        "url": "https://tickets.rangers.co.uk/en-GB/hospitality/rangers%20fc%20v%20motherwell%20fc/2027-3-13_15.00/ibrox%20stadium?utm_source=website%20&utm_medium=fixtures%20page&utm_campaign=motherwell%20vip%20hospitality%20march%202027",
+                        "isExternal": false
+                    },
+                    "seatSubLink": {
+                        "title": "SeatSub",
+                        "url": "https://tickets.rangers.co.uk/ClientRequiredFallback.aspx?next=%2fresale.aspx",
+                        "isExternal": true
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "Motherwell",
+                        "awayClubShortName": "Motherwell",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/65.svg",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643942",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-motherwell-scottish-premiership-2027-03-13/2EzDv33rzaeQepgIWKvGUj",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643947,
+                    "venue": "Tynecastle Park",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "20 Mar 2027",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Heart of Midlothian",
+                        "homeClubShortName": "Hearts",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/59.png",
+                        "awayClubName": "Rangers",
+                        "awayClubShortName": "Rangers",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643947",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/heart-of-midlothian-vs-rangers-scottish-premiership-2027-03-20/63FfETJHp96u4myJtoVjv4",
+                        "isExternal": false
+                    }
+                }
+            ]
+        },
+        {
+            "month": 4,
+            "year": 2027,
+            "monthName": "April",
+            "items": [
+                {
+                    "optaId": 2643954,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "03 Apr 2027",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "hospitalityLink": {
+                        "title": "Hospitality",
+                        "url": "https://tickets.rangers.co.uk/en-GB/hospitality/rangers%20fc%20v%20hibernian%20fc/2027-4-3_15.00/ibrox%20stadium?utm_source=website%20&utm_medium=fixtures%20page&utm_campaign=hibernian%20vip%20hospitality%20april%202027",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "Hibernian",
+                        "awayClubShortName": "Hibernian",
+                        "awayClubCrestUrl": "https://images.ctfassets.net/39646iezddpk/4DZg8TdimPDhz1QvRKuh3P/3c5137924e988cab37e8b78aa0290e70/150_Crest_Hunter_Green__3_.png",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643954",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-hibernian-scottish-premiership-2027-04-03/3ONMDuw8pBwoIu2qUUP96J",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643958,
+                    "venue": "Dens Park",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "10 Apr 2027",
+                    "kickoffTime": "3:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Dundee",
+                        "homeClubShortName": "Dundee",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/62.png",
+                        "awayClubName": "Rangers",
+                        "awayClubShortName": "Rangers",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643958",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/dundee-vs-rangers-scottish-premiership-2027-04-10/2Xs6Mv2sEYQhilXH7YzbB1",
+                        "isExternal": false
+                    }
+                }
+            ]
+        }
+    ]
+}
