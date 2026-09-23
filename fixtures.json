@@ -421,11 +421,52 @@
                         "isExternal": false
                     }
                 },
+                                {
+                    "optaId": 2643871,
+                    "venue": "McDiarmid Park",
+                    "competition": "Premier Sports Cup",
+                    "kickoffDate": "31 Oct 2026",
+                    "kickoffTime": "5:30 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/66.png",
+                        "awayClubName": "Aberdeen",
+                        "awayClubShortName": "Aberdeen",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643871",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/st-johnstone-vs-rangers-scottish-premiership-2026-12-12/4gLRXwoMniCrXsNuEtJCav",
+                        "isExternal": false
+                    }
+                },
                 {
                     "optaId": 2643835,
                     "venue": "Ibrox Stadium",
                     "competition": "Scottish Premiership",
-                    "kickoffDate": "31 Oct 2026",
+                    "kickoffDate": "TBC",
                     "kickoffTime": "3:00 pm",
                     "link": {
                         "title": "Tickets",
