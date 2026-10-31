@@ -461,58 +461,8 @@
                         "url": "/fixture/st-johnstone-vs-rangers-scottish-premiership-2026-12-12/4gLRXwoMniCrXsNuEtJCav",
                         "isExternal": false
                     }
-                },
-                {
-                    "optaId": 2643835,
-                    "venue": "Ibrox Stadium",
-                    "competition": "Scottish Premiership",
-                    "kickoffDate": "24 Nov 2026",
-                    "kickoffTime": "8:00 pm",
-                    "link": {
-                        "title": "Tickets",
-                        "url": "",
-                        "isExternal": false
-                    },
-                    "hospitalityLink": {
-                        "title": "Hospitality",
-                        "url": "https://tickets.rangers.co.uk/en-GB/hospitality/rangers%20fc%20v%20aberdeen%20fc/2026-10-31_15.00/ibrox%20stadium?utm_source=website%20&utm_medium=fixtures%20page&utm_campaign=aberdeen%20vip%20hospitality%20october%202026",
-                        "isExternal": false
-                    },
-                    "seatSubLink": {
-                        "title": "SeatSub",
-                        "url": "https://tickets.rangers.co.uk/resale.aspx",
-                        "isExternal": true
-                    },
-                    "matchUp": {
-                        "homeClubName": "Rangers",
-                        "homeClubShortName": "Rangers",
-                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
-                        "awayClubName": "Aberdeen",
-                        "awayClubShortName": "Aberdeen",
-                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/60.svg",
-                        "isHomeFixture": true,
-                        "tbc": false,
-                        "postponed": false,
-                        "status": "PreMatch",
-                        "inMatchCentre": false,
-                        "awayPenalties": [],
-                        "homePenalties": [],
-                        "hideScores": false,
-                        "liveStreamEnabled": false,
-                        "teamCode": "men"
-                    },
-                    "watchOnlineLink": {
-                        "title": "RangersTV",
-                        "url": "/tv#/fixture/2643835",
-                        "isExternal": true
-                    },
-                    "matchMode": false,
-                    "allContentLink": {
-                        "title": "Match Hub",
-                        "url": "/fixture/rangers-vs-aberdeen-scottish-premiership-2026-10-31/7JeiYakzJ18Vzaozv40i3Y",
-                        "isExternal": false
-                    }
                 }
+                
             ]
         },
         {
@@ -599,6 +549,57 @@
                     "allContentLink": {
                         "title": "Match Hub",
                         "url": "/fixture/motherwell-vs-rangers-scottish-premiership-2026-11-21/3ZsS8A2HEpy3vMjUI60EXS",
+                        "isExternal": false
+                    }
+                },
+                {
+                    "optaId": 2643835,
+                    "venue": "Ibrox Stadium",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "24 Nov 2026",
+                    "kickoffTime": "8:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "hospitalityLink": {
+                        "title": "Hospitality",
+                        "url": "https://tickets.rangers.co.uk/en-GB/hospitality/rangers%20fc%20v%20aberdeen%20fc/2026-10-31_15.00/ibrox%20stadium?utm_source=website%20&utm_medium=fixtures%20page&utm_campaign=aberdeen%20vip%20hospitality%20october%202026",
+                        "isExternal": false
+                    },
+                    "seatSubLink": {
+                        "title": "SeatSub",
+                        "url": "https://tickets.rangers.co.uk/resale.aspx",
+                        "isExternal": true
+                    },
+                    "matchUp": {
+                        "homeClubName": "Rangers",
+                        "homeClubShortName": "Rangers",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "awayClubName": "Aberdeen",
+                        "awayClubShortName": "Aberdeen",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/60.svg",
+                        "isHomeFixture": true,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643835",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/rangers-vs-aberdeen-scottish-premiership-2026-10-31/7JeiYakzJ18Vzaozv40i3Y",
                         "isExternal": false
                     }
                 },
