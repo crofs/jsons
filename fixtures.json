@@ -462,6 +462,14 @@
                         "isExternal": false
                     }
                 },
+                
+            ]
+        },
+        {
+            "month": 11,
+            "year": 2026,
+            "monthName": "November",
+            "items": [
                 {
                     "optaId": 2643835,
                     "venue": "Ibrox Stadium",
@@ -512,14 +520,7 @@
                         "url": "/fixture/rangers-vs-aberdeen-scottish-premiership-2026-10-31/7JeiYakzJ18Vzaozv40i3Y",
                         "isExternal": false
                     }
-                }
-            ]
-        },
-        {
-            "month": 11,
-            "year": 2026,
-            "monthName": "November",
-            "items": [
+                },
                 {
                     "optaId": 2643840,
                     "venue": "The SMISA Stadium",
