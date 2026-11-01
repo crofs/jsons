@@ -756,7 +756,7 @@
                 {
                     "optaId": 2643871,
                     "venue": "McDiarmid Park",
-                    "competition": "Scottish Premiership",
+                    "competition": "Premier Sports Cup",
                     "kickoffDate": "13 Dec 2026",
                     "kickoffTime": "12:00 pm",
                     "link": {
@@ -765,7 +765,7 @@
                         "isExternal": false
                     },
                     "matchUp": {
-                        "homeClubName": "St. Johnstone",
+                        "homeClubName": "Hibernian",
                         "homeClubShortName": "St. Johnstone",
                         "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/66.png",
                         "awayClubName": "Rangers",
