@@ -1016,6 +1016,47 @@
                         "isExternal": false
                     }
                 },
+                                {
+                    "optaId": 2643898,
+                    "venue": "CalForth Construction Arena at Tannadice Park",
+                    "competition": "Scottish Premiership",
+                    "kickoffDate": "13 Jan 2027",
+                    "kickoffTime": "8:00 pm",
+                    "link": {
+                        "title": "Tickets",
+                        "url": "",
+                        "isExternal": false
+                    },
+                    "matchUp": {
+                        "homeClubName": "St. Johnstone",
+                        "homeClubShortName": "Dundee Utd",
+                        "homeClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/63.png",
+                        "awayClubName": "Rangers",
+                        "awayClubShortName": "Rangers",
+                        "awayClubCrestUrl": "https://clublogos.stadion.io/assets/ClubLogos/Football/Scottish/67.svg",
+                        "isHomeFixture": false,
+                        "tbc": false,
+                        "postponed": false,
+                        "status": "PreMatch",
+                        "inMatchCentre": false,
+                        "awayPenalties": [],
+                        "homePenalties": [],
+                        "hideScores": false,
+                        "liveStreamEnabled": false,
+                        "teamCode": "men"
+                    },
+                    "watchOnlineLink": {
+                        "title": "RangersTV",
+                        "url": "/tv#/fixture/2643898",
+                        "isExternal": true
+                    },
+                    "matchMode": false,
+                    "allContentLink": {
+                        "title": "Match Hub",
+                        "url": "/fixture/dundee-united-vs-rangers-scottish-premiership-2027-01-09/4GnkdpyhP6bJ8FxCXfm8kR",
+                        "isExternal": false
+                    }
+                },
                 {
                     "optaId": 2643906,
                     "venue": "Ibrox Stadium",
